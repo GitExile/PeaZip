@@ -1,19 +1,19 @@
-﻿=== PeaZip language file ===
+=== PeaZip language file ===
 German - Deutsch
 9.8
 Translated by: Vacon
 Last rev. by: Andrain
-Last rev.: 20240223
+Last rev.: 20240606
 
 === PeaZip text group ===
 
-txt_9_8_alwaysflat: Always open archives in flat view
-txt_9_8_fnew: Extract here (in new folder)
-txt_9_8_fsmart: Extract here (smart new folder)
+txt_9_8_alwaysflat: Archive immer mit rekursiver Ansicht öffnen
+txt_9_8_fnew: Hier entpacken (in neuem Ordner)
+txt_9_8_fsmart: Hier entpacken (intelligenter neuer Ordner)
 txt_9_7_tarpipe: 7z / p7zip verwenden Pipe
 txt_9_7_smartsorting: Intelligente Sortierung der Dateinamen
 txt_9_6_centered: Zentriert
-txt_9_6_cside: Kompatke Seitenleiste
+txt_9_6_cside: Kompakte Seitenleiste
 txt_9_6_loadpconfirm: Möchten Sie dieses Profil laden? Alle Daten des aktuellen Profils werden überschrieben, einschließlich gespeicherter Skripte und Daten des Passwort-Managers.
 txt_9_6_loadp: Profil laden
 txt_9_6_saveppw: OPTIONAL: dieses Profil mit einem Passwort / Schlüsseldatei schützen?
@@ -135,7 +135,7 @@ txt_8_1_bo: Dateibrowser Optimierungen
 txt_8_1_bop: Der Dateibrowser kann unter Optionen > Einstellungen > Allgemein für die Anzeige von Archiven mit sehr vielen Elementen optimiert werden.
 txt_8_1_nopreparse: Archive nicht vorab analysieren
 txt_8_1_ed: Fehler entdeckt.
-txt_8_1_togglearc: Den Archivinhalt als flache Ansicht darzustellen kann lange dauern. Trotzdem fortfahren?
+txt_8_1_togglearc: Den Archivinhalt als rekursive Ansicht darzustellen kann lange dauern. Trotzdem fortfahren?
 txt_8_1_preparsehint: Leistung optimieren, indem die Voranalyse großer Archive eingeschränkt wird. Die Voranalyse soll mögliche Probleme im Archivinhalt im Voraus erkennen.
 txt_8_1_slow: Langsam
 txt_8_1_vslow: Sehr langsam
@@ -234,7 +234,7 @@ txt_7_2_source: Quelle
 txt_7_2_updateclear: Geänderte Dateien im Archiv aktualisieren und geänderte Dateien verwerfen
 txt_7_1_type_description_brotli: Brotli: Schneller Kompressor von Google, sehr schnelle Dekomprimierung
 txt_7_1_new: Alles hier entpacken, in neuem Ordner
-txt_7_1_smart: Alles hier entpacken, smart
+txt_7_1_smart: Alles hier entpacken, intelligent
 txt_7_1_profileintermediate: Mittlere Komprimierung, ZIP/BZip2 fast
 txt_7_1_renfilesonly: Nur Dateien umbenennen
 txt_7_1_typetosearch: Tippen, um in aktuellem Pfad zu suchen
@@ -331,7 +331,7 @@ txt_5_5_new: Neue Zeichenfolge
 txt_5_5_n: Anzahl zu löschender Zeichen
 txt_5_5_old: Alte Zeichenfolge
 txt_5_5_position: Position (Nummer oder "z" für das Ende)
-txt_5_5_intdir: Smart entpacken ohne überflüssigen Ordner
+txt_5_5_intdir: Intelligent entpacken ohne überflüssigen Ordner
 txt_5_5_replacestr: Zeichenfolge ersetzen/entfernen
 txt_5_5_datesameday: Gleicher Tag der ausgewählten Datei
 txt_5_5_datesamehour: Gleiche Stunde der ausgewählten Datei
@@ -899,7 +899,7 @@ txt_fs: Dateisystem
 txt_filters_recourse: Filter incl. Unterordner
 txt_filters: Filter
 txt_flat: Flat (alle anzeigen)
-txt_list_flat: flache Darstellung
+txt_list_flat: rekursive Darstellung
 txt_unit_floppy: Floppy disk
 txt_foldername: Ordnername
 txt_nfolders: Ordner
@@ -1174,7 +1174,7 @@ txt_extand_error: Diese Funktion kann immer nur für eine Datei gleichzeitig aus
 txt_threads: Threads
 txt_titlescolor: Titelzeilen-Farbe
 txt_to: zu
-txt_toggle_browseflat: Durchsuchen / flache Ansicht umschalten
+txt_toggle_browseflat: Durchsuchen / rekursive Ansicht umschalten
 txt_toggle_historybookmarks: Wechseln zwischen Verlauf / Lesezeichen
 txt_toolbarscolor: Toolbar-Farbe
 txt_tools: Werkzeuge
