@@ -1,22 +1,22 @@
-﻿=== PeaZip language file ===
+=== PeaZip language file ===
 German - Deutsch
 10.6
 Translated by: Vacon
 Last rev. by: Andrain
-Last rev.: 20250224
+Last rev.: 20250813
 
 === PeaZip text group ===
 
-txt_10_6_virtual: Dynamic virtual mode
-txt_10_5_fr: (full report)
-txt_10_5_sectype: Ask confirmation for running following file types
-txt_10_5_checkmotw: Check Zone.Identifier (MoTW)
-txt_10_5_sectypewarning: Do you want to run this file?
-txt_10_5_pathlock: Items in this path of the archive cannot be edited
-txt_10_5_type_description_rar: RAR: proprietary archive format, high compression ratio, supported through external compressor
-txt_10_5_sh: Show hidden files and folders in the filesystem
-txt_10_5_ntfsalt: This format is able to store NTFS Alternate Data Stream, including Mark of The Web
-txt_10_4_moving: (Moving)
+txt_10_6_virtual: Dynamischer virtueller Modus
+txt_10_5_fr: (vollständiger Bericht)
+txt_10_5_sectype: Bestätigung einfordern zum Ausführen der folgenden Dateitypen
+txt_10_5_checkmotw: Zone.Identifier (MoTW) prüfen
+txt_10_5_sectypewarning: Möchten Sie diese Datei ausführen?
+txt_10_5_pathlock: Elemente in diesem Pfad des Archivs können nicht bearbeitet werden
+txt_10_5_type_description_rar: RAR: proprietäres Archivformat, hohe Komprimierungsrate, unterstützt durch externen Komprimierer
+txt_10_5_sh: Versteckte Dateien und Ordner im Dateisystem anzeigen
+txt_10_5_ntfsalt: Dieses Format kann NTFS Alternate Data Stream speichern, einschließlich Mark of The Web
+txt_10_4_moving: (Verschiebe)
 txt_10_3_classic: Klassisch
 txt_10_3_ascii: Es wird empfohlen, in Passwörtern für das aktuelle Archivformat nur ASCII-Zeichen zu verwenden (Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen).
 txt_10_3_minimal: Minimalistisch
@@ -262,13 +262,13 @@ txt_7_2_loadcompsettings: Komprimierungseinstellungen laden
 txt_7_2_savecompsettings: Komprimierungseinstellungen speichern
 txt_7_2_source: Quelle
 txt_7_2_updateclear: Geänderte Dateien im Archiv aktualisieren und geänderte Dateien verwerfen
-txt_7_1_type_description_brotli: Brotli: Schneller Kompressor von Google, sehr schnelle Dekomprimierung
+txt_7_1_type_description_brotli: Brotli: Schneller Komprimierer von Google, sehr schnelle Dekomprimierung
 txt_7_1_new: Alles hier in neuem Ordner entpacken
 txt_7_1_smart: Alles hier in neuem Ordner entpacken, ohne redundanten Ordner
 txt_7_1_profileintermediate: Mittlere Komprimierung, ZIP/BZip2 fast
 txt_7_1_renfilesonly: Nur Dateien umbenennen
 txt_7_1_typetosearch: Tippen, um in aktuellem Pfad zu suchen
-txt_7_1_type_description_zstd: Zstandard: Schneller Kompressor von Facebook, sehr schnelle Dekomprimierung
+txt_7_1_type_description_zstd: Zstandard: Schneller Komprimierer von Facebook, sehr schnelle Dekomprimierung
 txt_7_0_af: Analysiere Ordnerinhalt
 txt_7_0_autoopentar: TAR-Archiv in tar.* Dateien automatisch öffnen
 txt_7_0_exttmppath: Inhalt wird außerhalb des temporären Ordners entpackt, in: 
@@ -1070,7 +1070,7 @@ txt_output: Ausgabe:
 txt_overwrite: Vorhandene Dateien überschreiben
 txt_compressed_size: Gepackt
 txt_paqver: PAQ-Version
-txt_type_description_paq: PAQ: langsamer, aber extrem mächtiger Kompressor
+txt_type_description_paq: PAQ: langsamer, aber extrem mächtiger Komprimierer
 txt_pio: Parameter, Eingabe, Ausgabe
 txt_poi: Parameter, Ausgabe, Eingabe
 txt_parameters: Parameter:
@@ -1100,7 +1100,7 @@ txt_please_wait: Bitte warten
 txt_copy_wait: Bitte warten bis der aktuelle Kopier-/Verschiebevorgang abgeschlossen ist, bevor andere Aufgaben dieser Art geplant werden
 txt_previewwith: Vorschau mit...
 txt_projectadmin: Projekt-Administrator:
-txt_type_description_quad: BALZ/QUAD: hoch effektiver, ROLZ-basierender Datei-Kompressor
+txt_type_description_quad: BALZ/QUAD: hoch effektiver, ROLZ-basierender Datei-Komprimierer
 txt_quickdelete: Schnell löschen
 txt_quit: Beenden
 txt_unit_ram: RAM-Laufwerk
